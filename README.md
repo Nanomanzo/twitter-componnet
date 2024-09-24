@@ -1,8 +1,5 @@
-# React + Vite
+# First component in React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Create a React component that simulates a Twitter-like card, allowing the user to follow or unfollow a list of people. The component will display basic profile information, such as the username, and include an interactive button that toggles between 'Follow' and 'Unfollow' based on the user's action. The list of users can be passed as props, and the follow status of each user will be managed locally within the component.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/2ae504f9-9211-4cc6-9e1b-7f2e8370504e)
